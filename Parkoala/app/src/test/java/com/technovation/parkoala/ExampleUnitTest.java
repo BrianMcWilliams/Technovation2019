@@ -1,4 +1,4 @@
-package com.example.parkoala;
+package com.technovation.parkoala;
 
 import org.junit.Test;
 
