@@ -22,4 +22,9 @@
         android:name="com.technovation.parkoala.ui.notifications.NotificationsFragment"
         android:label="@string/title_notifications"
         tools:layout="@layout/fragment_notifications" />
+    <fragment
+        android:id="@+id/navigation_todolist"
+        android:name="com.technovation.parkoala.ui.todolist.navigation_todolist"
+        android:label="@string/title_todolist"
+        tools:layout="@layout/fragment_todolist" />
 </navigation>
