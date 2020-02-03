@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "909961420006",
+    "firebase_url": "https://parkoala-2183e.firebaseio.com",
+    "project_id": "parkoala-2183e",
+    "storage_bucket": "parkoala-2183e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909961420006:android:36e343eec70901be6e2f27",
+        "android_client_info": {
+          "package_name": "com.example.parkoala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909961420006-2q4tjavc7m7qq4mnfaijcibdjm5ceej2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkoala",
+            "certificate_hash": "d816a9a3a1d6c06674bd76a76f2ebcee02988015"
+          }
+        },
+        {
+          "client_id": "909961420006-mbcjdonrqin89bh29m9j654c2u6niki1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ylQLTMC3lztY6FL2uvNYtcjl5zbtshY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909961420006-mbcjdonrqin89bh29m9j654c2u6niki1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
